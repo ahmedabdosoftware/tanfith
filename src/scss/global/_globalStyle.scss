@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+:root{
+    --popularCalar:white;
+    --active:green;
+    --paragraph:rgb(121, 120, 120);
+  }
+  
+  .readOnlyInput{
+    background-color: rgb(237, 233, 233);
+  }
+  // loader
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 300px; 
+  position: relative;
+  top: 0px;
+  left: 0px;
+  // background-color: red;
+}
